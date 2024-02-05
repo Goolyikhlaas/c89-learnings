@@ -33,13 +33,11 @@ unsigned int count = 100;
 _Bool isStudent = 1; /* 1 represents true, 0 represents false */ 
 
 /* 9. void (void type): */ 
-void function() {
+void function()
     
-}
-
 /* 10. char array (character array or string): */ 
 char phrase[] = "CURTIN EDUCATION";
 
     return 0;
-    
+
 }
