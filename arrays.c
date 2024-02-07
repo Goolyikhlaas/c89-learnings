@@ -27,5 +27,4 @@ int main()
     printf("%d\n", unluckynumbers[0]); /* Prints the value stored in the first element of the unluckynumbers array */
 
     return 0;
-    
 }
