@@ -41,5 +41,4 @@ void functionwithparameters(char name[], int age)   /* Defines a function functi
 {
     printf("Hello %s, your are %d\n", name, age );
     
-
 }
